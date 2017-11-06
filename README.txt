@@ -1,2 +1,2 @@
 # Exercice-1-OpenClassRooms
-Partie 2: Exercie d'Open Class Rooms
+Partie 2: Exercice d'Open Class Rooms
